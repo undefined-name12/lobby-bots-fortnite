@@ -13,14 +13,14 @@
     "leave_after_success": true,
     "leave_time": 60000,
     "join_message": "You have 3 minutes to ready up and get in a lobby filled with bots! | dsc.gg/iron-web10",
-    "invite_status": "Invite ✔️ | dsc.gg/iron-web10",
+    "invite_status": "Invite ✔️ | hacking.tel on ig",
     "invite_onlinetype": "online",
-    "inuse_status": "In Use Wait ❌ | dsc.gg/iron-web10",
+    "inuse_status": "In Use Wait ❌ | hacking.tel on ig",
     "inuse_onlinetype": "xa"
   },
   "discord": {
     "run_discord_client": true,
-    "status": "By iron web10",
+    "status": "By undefined_name",
     "status_type": "WATCHING",
     "disable_crash_command": true, 
     "send_webhook": false
