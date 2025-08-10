@@ -1,5 +1,3 @@
-
-
 const handlePingCommand = async (message, sender) => {
     console.log(`${sender.displayName}: ${message.content}`);
 
