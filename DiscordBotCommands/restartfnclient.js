@@ -1,8 +1,5 @@
-
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
-
-
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -18,3 +15,4 @@ module.exports = {
       await interaction.reply({ embeds: [embed] });
     }
   };
+
