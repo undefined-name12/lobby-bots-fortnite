@@ -1,5 +1,3 @@
-
-
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
 
@@ -17,4 +15,5 @@ module.exports = {
         .setTimestamp();
       await interaction.reply({ embeds: [embed] });
     }
+
   };
